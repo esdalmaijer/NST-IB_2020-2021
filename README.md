@@ -5,6 +5,7 @@ NST IB STATS PRACTICALS
 
 These are materials for the statistics practicals that are part of NST IB. You can view static versions here, or walk through interactive versions via [mybinder.org](https://mybinder.org/v2/gh/esdalmaijer/NST-IB_2020-2021/main). The latter is highly recommended!
 
+0. [Python refresher](00_plot_spot.ipynb)
 1. [Plot Spot](01_plot_spot.ipynb)
 2. [Correlation Station](02_correlation_station.ipynb)
 3. [Regression session](03_regression_session.ipynb)
