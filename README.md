@@ -8,4 +8,5 @@ These are materials for the statistics practicals that are part of NST IB. You c
 0. [Python refresher](00_python_refresher/00_python_refresher.ipynb)
 1. [Plot Spot](01_plot_spot/01_plot_spot.ipynb)
 2. [T-test Fest](02_t-test_fest/02_t-test_fest.ipynb)
+3. [Correlation Station](03_correlation_station/03_correlation_station.ipynb)
 
